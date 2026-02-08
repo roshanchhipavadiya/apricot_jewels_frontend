@@ -215,7 +215,7 @@ const Footer = () => {
                             {/* <div>
                                 <img src={Facebook} className='h-[20px] w-[20px]' alt="Facebook" title='Facebook' />
                             </div> */}
-                            <a href="https://www.instagram.com/apricot_jewels_" target="_blank" rel="noopener noreferrer">
+                            <a href="https://www.instagram.com/apricot.jewels" target="_blank" rel="noopener noreferrer">
                                 <img
                                     src={Insta}
                                     className="h-[20px] w-[20px]"
